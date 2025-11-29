@@ -1,0 +1,5 @@
+{
+  "name": "TeamCraft AI",
+  "description": "An intelligent team formation tool that creates custom questionnaires, analyzes responses, and builds optimal groups based on your specific rules and constraints.",
+  "requestFramePermissions": []
+}
